@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - simpleMath",
+            "request": "launch",
+            "mainClass": "simpleMath",
+            "projectName": "javaProgram_28055d90"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TheHulk",
+            "request": "launch",
+            "mainClass": "TheHulk",
+            "projectName": "javaProgram_28055d90"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Swap3",
             "request": "launch",
             "mainClass": "Swap3",
